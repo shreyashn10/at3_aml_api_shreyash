@@ -1,0 +1,23 @@
+[project]
+name = "bitcoin-prediction-api"
+version = "1.0.0"
+description = "FastAPI service for Bitcoin price prediction"
+authors = [
+    {name = "Shreyash", id = "25934391"}
+]
+readme = "README.md"
+requires-python = "3.9"
+dependencies = [
+    "fastapi (==0.111.0)",
+    "uvicorn (==0.30.1)",
+    "pandas (==2.2.2)",
+    "scikit-learn (==1.5.1)",
+    "joblib (==1.4.2)",
+    "numpy (==1.26.4)",
+    "requests (==2.32.3)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
