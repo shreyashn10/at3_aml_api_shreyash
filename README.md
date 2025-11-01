@@ -47,9 +47,11 @@ http://localhost:8000/predict/bitcoin?date=2020-10-18
 
 ### Local Development
 First, clone the repository:
+
 ```bash
 git clone <your-repository-url>
 cd fastapi-at3
+
 1. Create and activate Python virtual environment:
 ```bash
 python -m venv .venv
