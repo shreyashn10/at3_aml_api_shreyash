@@ -42,7 +42,7 @@ http://localhost:8000/predict/bitcoin?date=2020-10-18
     "data_source": "real",
     "note": "Prediction made using properly scaled features"
 }
-```markdown
+```
 
 ## ⚙️ Setup and Installation
 
