@@ -50,8 +50,9 @@ http://localhost:8000/predict/bitcoin?date=2020-10-18
 First, clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/shreyashn10/at3_aml_api_shreyash>
 cd fastapi-at3
+```
 
 1. Create and activate Python virtual environment:
 ```bash
