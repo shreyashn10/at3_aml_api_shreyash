@@ -1,17 +1,6 @@
 # Bitcoin Price Prediction API by Shreyash Narayane
 
-## 📘 Overview
-
-This FastAPI
-
-## 🔧 Technical Details
-- Python 3.11
-- FastAPI framework
-- Linear Regression model (scikit-learn)
-- Data preprocessing with pandas
-- Docker containerization
-
-## 🧩 Integration
+## 📘 Integration Overview
 This API is part of the Group 3 Cryptocurrency Forecast project, designed to provide reliable Bitcoin price predictions through a clean, modern FASTAPI interface.cation predicts the next-day HIGH price of Bitcoin (BTC) based on historical market data. It is part of the Group 3 Cryptocurrency Forecast Dashboard developed for Advanced Machine Learning Applications (AT3) at UTS.
 
 ## 🚀 Features
