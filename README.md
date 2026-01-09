@@ -2,7 +2,9 @@
 
 ## 📘 Overview
 
-This FastAPI## 🔧 Technical Details
+This FastAPI
+
+## 🔧 Technical Details
 - Python 3.11
 - FastAPI framework
 - Linear Regression model (scikit-learn)
@@ -95,10 +97,3 @@ Once running, access the interactive API documentation:
 - **Prediction Target:** Next-day HIGH price
 - **Scaling:** StandardScaler on numerical features only
 - **Available Range:** Supports historical dates (with real data) and future dates (with mock data)
-
-## 🔧 Technical Details
-- Python 3.11
-- FastAPI framework
-- Linear Regression model (scikit-learn)
-- Data preprocessing with pandas
-- Docker containerization
