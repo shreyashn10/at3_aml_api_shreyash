@@ -1,4 +1,4 @@
-# Bitcoin Price Prediction API — Shreyash (25934391)
+# Bitcoin Price Prediction API by Shreyash Narayane
 
 ## 📘 Overview
 
@@ -10,7 +10,7 @@ This FastAPI## 🔧 Technical Details
 - Docker containerization
 
 ## 🧩 Integration
-This API is part of the Group 3 Cryptocurrency Forecast project, designed to provide reliable Bitcoin price predictions through a clean, modern REST API interface.cation predicts the next-day HIGH price of Bitcoin (BTC) based on historical market data. It is part of the Group 3 Cryptocurrency Forecast Dashboard developed for Advanced Machine Learning Applications (AT3) at UTS.
+This API is part of the Group 3 Cryptocurrency Forecast project, designed to provide reliable Bitcoin price predictions through a clean, modern FASTAPI interface.cation predicts the next-day HIGH price of Bitcoin (BTC) based on historical market data. It is part of the Group 3 Cryptocurrency Forecast Dashboard developed for Advanced Machine Learning Applications (AT3) at UTS.
 
 ## 🚀 Features
 - Prediction of next-day Bitcoin HIGH price
